@@ -1,5 +1,9 @@
 So I don't know what to do, rust+wasm+javascript makes no sense.
 
+To run the code you will need npm and wasm-pack. I don't know how to install npm but here is how to install wasm-pack:
+
+https://rustwasm.github.io/wasm-pack/installer/
+
 here's how to run this code:
 
     cd www

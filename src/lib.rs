@@ -81,7 +81,6 @@ pub struct Ball
 #[wasm_bindgen]
 impl Ball 
 {
-    /// angle is in degrees
     pub fn new() -> Ball
     {
         Ball {
